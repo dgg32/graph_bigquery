@@ -1,0 +1,10 @@
+Python 3.12 encountered an issue with apache-beam (https://stackoverflow.com/questions/77364550/attributeerror-module-pkgutil-has-no-attribute-impimporter-did-you-mean).
+
+
+pip install neo4j
+
+pip install 'apache-beam[gcp]'
+
+pip install google-cloud-bigquery
+
+pip install pyyaml
