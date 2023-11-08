@@ -1,25 +1,97 @@
-{"name": "ModernaTX, Inc.", "type": "INDUSTRY"}
+{"name": "Orca Biosystems, Inc.", "type": "INDUSTRY"}
+{"name": "Princess Margaret Hospital, University Health Network", "type": "UNKNOWN"}
+{"name": "Chongqing Precision Biotech Co., Ltd", "type": "INDUSTRY"}
+{"name": "M.D. Anderson Cancer Center", "type": "OTHER"}
 {"name": "Pfizer", "type": "INDUSTRY"}
-{"name": "Southern Tohoku BNCT Research Center", "type": "OTHER"}
-{"name": "AstraZeneca K.K.", "type": "UNKNOWN"}
-{"name": "AbbVie", "type": "INDUSTRY"}
-{"name": "Novo Nordisk A/S", "type": "INDUSTRY"}
+{"name": "Tata Memorial Centre", "type": "OTHER"}
+{"name": "Ossium Health, Inc.", "type": "INDUSTRY"}
+{"name": "Pediatric Oncology Experimental Therapeutics Investigators' Consortium", "type": "UNKNOWN"}
+{"name": "University Hospital, Brest", "type": "OTHER"}
+{"name": "Peking University People's Hospital", "type": "OTHER"}
+{"name": "wang, jianxiang", "type": "OTHER"}
+{"name": "Masonic Cancer Center, University of Minnesota", "type": "OTHER"}
+{"name": "Kecellitics Biotech Company Ltd", "type": "INDUSTRY"}
+{"name": "IBFM", "type": "UNKNOWN"}
+{"name": "Alberta Cancer Foundation", "type": "OTHER"}
+{"name": "Children's Hospital Medical Center, Cincinnati", "type": "OTHER"}
+{"name": "Celgene Corporation", "type": "INDUSTRY"}
+{"name": "First Affiliated Hospital of Zhejiang University", "type": "OTHER"}
+{"name": "Swiss Pediatric Oncology Group", "type": "OTHER"}
+{"name": "Samara State Medical University", "type": "OTHER"}
+{"name": "Becton, Dickinson and Company", "type": "INDUSTRY"}
+{"name": "Assistance Publique - H\u00f4pitaux de Paris", "type": "OTHER"}
+{"name": "Biomea Fusion Inc.", "type": "INDUSTRY"}
+{"name": "Tian Yi Zhang", "type": "OTHER"}
 {"name": "Takeda", "type": "INDUSTRY"}
-{"name": "GlaxoSmithKline", "type": "INDUSTRY"}
-{"name": "Kobe City Medical Center General Hospital", "type": "UNKNOWN"}
-{"name": "Hiroshima University Hospital", "type": "OTHER"}
-{"name": "KinoPharma Inc.", "type": "INDUSTRY"}
-{"name": "Boehringer Ingelheim", "type": "INDUSTRY"}
-{"name": "Eli Lilly and Company", "type": "INDUSTRY"}
-{"name": "Meiji Seika Pharma Co., Ltd.", "type": "INDUSTRY"}
-{"name": "Kyoto University Hospital", "type": "OTHER"}
+{"name": "Innovative Therapies For Children with Cancer Consortium", "type": "OTHER"}
+{"name": "Odense University Hospital", "type": "OTHER"}
+{"name": "Juan C. Ramos, MD", "type": "OTHER"}
+{"name": "AbbVie", "type": "INDUSTRY"}
+{"name": "National Cancer Institute (NCI)", "type": "NIH"}
+{"name": "The University of Hong Kong", "type": "OTHER"}
+{"name": "Gruppo Italiano Malattie EMatologiche dell'Adulto", "type": "OTHER"}
+{"name": "Odense Patient Data Explorative Network", "type": "OTHER"}
+{"name": "Canadian Institutes of Health Research (CIHR)", "type": "OTHER_GOV"}
+{"name": "Medical University of Vienna", "type": "OTHER"}
+{"name": "Crystal Mackall, MD", "type": "OTHER"}
+{"name": "Beijing Immunochina Medical Science & Technology Co., Ltd.", "type": "INDUSTRY"}
+{"name": "Jining Medical University", "type": "OTHER"}
+{"name": "Dutch Childhood Oncology Group", "type": "OTHER"}
+{"name": "University of Birmingham", "type": "OTHER"}
+{"name": "Sheng-Li Xue, MD", "type": "OTHER"}
+{"name": "Princess Maxima Center for Pediatric Oncology", "type": "OTHER"}
+{"name": "UHKT Prague", "type": "UNKNOWN"}
+{"name": "The First Affiliated Hospital of Soochow University", "type": "OTHER"}
+{"name": "Center for International Blood and Marrow Transplant Research", "type": "NETWORK"}
+{"name": "First Affiliated Hospital Bengbu Medical College", "type": "OTHER"}
+{"name": "Canadian Cancer Society (CCS)", "type": "OTHER"}
+{"name": "Fight Kids Cancer", "type": "OTHER"}
+{"name": "Institute of Hematology & Blood Diseases Hospital, China", "type": "OTHER"}
+{"name": "Children's Oncology Group", "type": "NETWORK"}
+{"name": "The Second People's Hospital of Huai'an", "type": "OTHER"}
+{"name": "Australian & New Zealand Children's Haematology/Oncology Group", "type": "OTHER"}
+{"name": "French Innovative Leukemia Organisation", "type": "OTHER"}
+{"name": "Lucile Packard Foundation for Children's Health", "type": "UNKNOWN"}
+{"name": "Northern Jiangsu Province People's Hospital", "type": "OTHER"}
+{"name": "Affiliated Hospital of Nantong University", "type": "OTHER"}
+{"name": "Dana-Farber Cancer Institute", "type": "OTHER"}
+{"name": "Sanofi", "type": "INDUSTRY"}
+{"name": "Nanfang Hospital, Southern Medical University", "type": "OTHER"}
+{"name": "Canadian Cancer Trials Group", "type": "NETWORK"}
+{"name": "Beijing Boren Hospital", "type": "OTHER"}
+{"name": "Federal Research Institute of Pediatric Hematology, Oncology and Immunology", "type": "OTHER"}
+{"name": "Seattle Children's Hospital", "type": "OTHER"}
+{"name": "Institute of Cancer Research, United Kingdom", "type": "OTHER"}
+{"name": "Assiut University", "type": "OTHER"}
+{"name": "National Cancer Institute, France", "type": "OTHER_GOV"}
+{"name": "University of Massachusetts, Worcester", "type": "OTHER"}
+{"name": "Stanford University", "type": "OTHER"}
+{"name": "The Leukemia and Lymphoma Society", "type": "OTHER"}
+{"name": "St. Petersburg State Pavlov Medical University", "type": "OTHER"}
+{"name": "ALL-BFM Study Group", "type": "NETWORK"}
+{"name": "Suzhou Hospital of Traditional Chinese Medicine", "type": "OTHER"}
+{"name": "Janssen Research & Development, LLC", "type": "INDUSTRY"}
+{"name": "Cancer Research UK", "type": "OTHER"}
+{"name": "ALL SCTped Forum", "type": "OTHER"}
+{"name": "Navy General Hospital, Beijing", "type": "OTHER"}
+{"name": "Centre Hospitalier R\u00e9gional Metz-Thionville", "type": "OTHER"}
+{"name": "Kite Pharma", "type": "UNKNOWN"}
+{"name": "University of Colorado, Denver", "type": "OTHER"}
+{"name": "University of Chicago", "type": "OTHER"}
+{"name": "University of Calgary", "type": "OTHER"}
+{"name": "St. Anna Kinderkrebsforschung", "type": "OTHER"}
+{"name": "National Research Center for Radiation Medicine in Kiev", "type": "UNKNOWN"}
+{"name": "European Society for Blood and Marrow Transplantation", "type": "NETWORK"}
+{"name": "Sohag University", "type": "OTHER"}
+{"name": "Loxo Oncology, Inc.", "type": "INDUSTRY"}
+{"name": "Great Ormond Street Hospital for Children NHS Foundation Trust", "type": "OTHER"}
+{"name": "University of Southern Denmark", "type": "OTHER"}
+{"name": "University Hospital, Montpellier", "type": "OTHER"}
 {"name": "Merck Sharp & Dohme LLC", "type": "INDUSTRY"}
-{"name": "AstraZeneca", "type": "INDUSTRY"}
-{"name": "Osaka Metropolitan University", "type": "UNKNOWN"}
-{"name": "Istituto Nazionale di Ricovero e Cura per Anziani", "type": "OTHER"}
-{"name": "European Union", "type": "OTHER"}
-{"name": "Astellas Pharma Inc", "type": "INDUSTRY"}
-{"name": "Institute for Clinical Effectiveness, Japan", "type": "OTHER"}
-{"name": "University of Tsukuba", "type": "OTHER"}
-{"name": "Kowa Company, Ltd.", "type": "INDUSTRY"}
-{"name": "Bristol-Myers Squibb", "type": "INDUSTRY"}
+{"name": "Syndax Pharmaceuticals", "type": "INDUSTRY"}
+{"name": "Southwest Hospital, China", "type": "OTHER"}
+{"name": "Centre Hospitalier Universitaire de N\u012bmes", "type": "OTHER"}
+{"name": "Azienda Socio Sanitaria Territoriale degli Spedali Civili di Brescia", "type": "OTHER"}
+{"name": "University Hospital, Lille", "type": "OTHER"}
+{"name": "Amgen", "type": "INDUSTRY"}
+{"name": "Hebei Yanda Ludaopei Hospital", "type": "OTHER"}

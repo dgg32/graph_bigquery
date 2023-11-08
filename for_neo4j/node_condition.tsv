@@ -1,0 +1,24 @@
+SNOMEDCT	name	UMLS
+1162768007	Leukaemia	C0023418
+91861009	Acute Myeloid Leukaemia	C0023467
+51092000	Chronic Lymphocytic Leukaemia	C0023434
+92818009	Chronic Myeloid Leukaemia	C0279543
+128822004	Acute Lymphoblastic Leukemia	C1961102,C0023449
+1162928000	Acute Myelogenous Leukemia	C0023467
+93143009	Leukemia	C0023418
+52168008	Monocytic Leukemia	C0598894,C0023465
+721308005	Acute Leukemia of Ambiguous Lineage	C1301357
+1163439000	Myeloid Leukemia	C0023470
+77430005	Adult T-Cell Leukemia/Lymphoma	C0023493
+128923008	Prolymphocytic Leukemia	C0023486
+91855006	Acute Leukemia	C0085669
+278453007	Acute Biphenotypic Leukemia	C0023464
+1264458000	Acute Undifferentiated Leukemia	C0280141
+425688002	ph+ Acute Lymphoblastic Leukemia	
+28950004	Acute Promyelocytic Leukemia	C0023487
+92812005	Chronic Leukemia	C1279296
+118600007	Lymphoma	C0024299
+188725004	Lymphoid Leukemia	C0023448
+12291000132102	Refractory Acute Myeloid Leukemia	C4528668
+450913003	Mixed Phenotype Acute Leukemia	C2826025
+127225006	Chronic Myelomonocytic Leukemia	C0023480

@@ -1,7 +1,12 @@
-{"fsn": "Verruca (morphologic abnormality)", "name": "Verruca", "SNOMEDCT": "30285000"}
-{"fsn": "Malignant neoplasm (morphologic abnormality)", "name": "Malignant neoplasm", "SNOMEDCT": "1240414004"}
-{"fsn": "Acute inflammation (morphologic abnormality)", "name": "Acute inflammation", "SNOMEDCT": "4532008"}
-{"fsn": "Inflammatory morphology (morphologic abnormality)", "name": "Inflammatory morphology", "SNOMEDCT": "409774005"}
-{"fsn": "Chronic suppurative inflammation (morphologic abnormality)", "name": "Chronic suppurative inflammation", "SNOMEDCT": "36390009"}
-{"fsn": "Fatty degeneration (morphologic abnormality)", "name": "Fatty degeneration", "SNOMEDCT": "29185008"}
-{"fsn": "Fibrosis (morphologic abnormality)", "name": "Fibrosis", "SNOMEDCT": "112674009"}
+{"fsn": "Acute myeloid leukemia (morphologic abnormality)", "name": "Acute myeloid leukemia", "SNOMEDCT": "1162928000"}
+{"fsn": "Chronic myeloid leukemia (morphologic abnormality)", "name": "Chronic myeloid leukemia", "SNOMEDCT": "1162588009"}
+{"fsn": "Acute leukemia (morphologic abnormality)", "name": "Acute leukemia", "SNOMEDCT": "24072005"}
+{"fsn": "Malignant lymphoma (morphologic abnormality)", "name": "Malignant lymphoma", "SNOMEDCT": "1163043007"}
+{"fsn": "Leukemia (morphologic abnormality)", "name": "Leukemia", "SNOMEDCT": "1162768007"}
+{"fsn": "Acute leukemia of ambiguous lineage (morphologic abnormality)", "name": "Acute leukemia of ambiguous lineage", "SNOMEDCT": "397345009"}
+{"fsn": "Philadelphia chromosome-positive acute lymphoblastic leukemia (morphologic abnormality)", "name": "Philadelphia chromosome-positive acute lymphoblastic leukemia", "SNOMEDCT": "426955004"}
+{"fsn": "Chronic myelomonocytic leukemia (morphologic abnormality)", "name": "Chronic myelomonocytic leukemia", "SNOMEDCT": "128831004"}
+{"fsn": "Lymphoid leukemia (morphologic abnormality)", "name": "Lymphoid leukemia", "SNOMEDCT": "1172709000"}
+{"fsn": "Chronic leukemia (morphologic abnormality)", "name": "Chronic leukemia", "SNOMEDCT": "2557004"}
+{"fsn": "Acute biphenotypic leukemia (morphologic abnormality)", "name": "Acute biphenotypic leukemia", "SNOMEDCT": "128818009"}
+{"fsn": "Precursor cell lymphoblastic leukemia (morphologic abnormality)", "name": "Precursor cell lymphoblastic leukemia", "SNOMEDCT": "128822004"}

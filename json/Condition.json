@@ -1,23 +1,23 @@
-{"name": "Systemic Sclerosis", "UMLS": "C0036421", "SNOMEDCT": "89155008"}
-{"name": "Scleroderma", "UMLS": "C1027109,C0011644,C0323390,C0036421", "SNOMEDCT": "422801000"}
-{"name": "Hypercholesterolemia", "UMLS": "C0020443,C1522133", "SNOMEDCT": "13644009"}
-{"name": "Acute Lymphocytic Leukemia", "UMLS": "C0023449,C1961102", "SNOMEDCT": "128822004"}
-{"name": "Acute Disease", "UMLS": "C0001314", "SNOMEDCT": "2704003"}
-{"name": "Atopic Dermatitis", "UMLS": "C0011615,C0013595", "SNOMEDCT": "24079001"}
-{"name": "Acute Pyelonephritis", "UMLS": "C0520575", "SNOMEDCT": "22352007"}
-{"name": "Common Wart", "UMLS": "C3665596", "SNOMEDCT": "57019003"}
-{"name": "SARS-CoV-2", "UMLS": "C5203676", "SNOMEDCT": "840533007"}
-{"name": "Squamous Cell Carcinoma", "UMLS": "C0007137", "SNOMEDCT": "1162767002"}
-{"name": "Multiple Myeloma", "UMLS": "C0026764", "SNOMEDCT": "1162576007"}
-{"name": "Bladder Cancer", "UMLS": "C0005684,C0005695,C0699885", "SNOMEDCT": "399326009"}
-{"name": "Haemophilia A", "UMLS": "C0019069", "SNOMEDCT": "28293008"}
-{"name": "Obesity", "UMLS": "C0028754,C4759928", "SNOMEDCT": "414916001"}
-{"name": "Overweight", "UMLS": "C0497406", "SNOMEDCT": "238131007"}
-{"name": "Aggressive NK Cell Leukemia", "UMLS": "C1292777,C1522378", "SNOMEDCT": "128833001"}
-{"name": "Migraine", "UMLS": "C0149931", "SNOMEDCT": "37796009"}
-{"name": "Systemic Lupus Erythematosus", "UMLS": "C0024141", "SNOMEDCT": "55464009"}
-{"name": "Quality of Life", "UMLS": "C2015891,C0518214,C0034380,C5548092", "SNOMEDCT": "405152002"}
-{"name": "Hidradenitis Suppurativa", "UMLS": "C0162836", "SNOMEDCT": "59393003"}
-{"name": "Pulmonary Arterial Hypertension", "UMLS": "C3203102,C2973725", "SNOMEDCT": "11399002"}
-{"name": "Narcolepsy Type 1", "UMLS": "C4543926", "SNOMEDCT": "735676003"}
-{"name": "Nonalcoholic Steatohepatitis", "UMLS": "C3241937", "SNOMEDCT": "442685003"}
+{"name": "Leukaemia", "UMLS": "C0023418", "SNOMEDCT": "1162768007"}
+{"name": "Acute Myeloid Leukaemia", "UMLS": "C0023467", "SNOMEDCT": "91861009"}
+{"name": "Chronic Lymphocytic Leukaemia", "UMLS": "C0023434", "SNOMEDCT": "51092000"}
+{"name": "Chronic Myeloid Leukaemia", "UMLS": "C0279543", "SNOMEDCT": "92818009"}
+{"name": "Acute Lymphoblastic Leukemia", "UMLS": "C1961102,C0023449", "SNOMEDCT": "128822004"}
+{"name": "Acute Myelogenous Leukemia", "UMLS": "C0023467", "SNOMEDCT": "1162928000"}
+{"name": "Leukemia", "UMLS": "C0023418", "SNOMEDCT": "93143009"}
+{"name": "Monocytic Leukemia", "UMLS": "C0598894,C0023465", "SNOMEDCT": "52168008"}
+{"name": "Acute Leukemia of Ambiguous Lineage", "UMLS": "C1301357", "SNOMEDCT": "721308005"}
+{"name": "Myeloid Leukemia", "UMLS": "C0023470", "SNOMEDCT": "1163439000"}
+{"name": "Adult T-Cell Leukemia/Lymphoma", "UMLS": "C0023493", "SNOMEDCT": "77430005"}
+{"name": "Prolymphocytic Leukemia", "UMLS": "C0023486", "SNOMEDCT": "128923008"}
+{"name": "Acute Leukemia", "UMLS": "C0085669", "SNOMEDCT": "91855006"}
+{"name": "Acute Biphenotypic Leukemia", "UMLS": "C0023464", "SNOMEDCT": "278453007"}
+{"name": "Acute Undifferentiated Leukemia", "UMLS": "C0280141", "SNOMEDCT": "1264458000"}
+{"name": "ph+ Acute Lymphoblastic Leukemia", "UMLS": "", "SNOMEDCT": "425688002"}
+{"name": "Acute Promyelocytic Leukemia", "UMLS": "C0023487", "SNOMEDCT": "28950004"}
+{"name": "Chronic Leukemia", "UMLS": "C1279296", "SNOMEDCT": "92812005"}
+{"name": "Lymphoma", "UMLS": "C0024299", "SNOMEDCT": "118600007"}
+{"name": "Lymphoid Leukemia", "UMLS": "C0023448", "SNOMEDCT": "188725004"}
+{"name": "Refractory Acute Myeloid Leukemia", "UMLS": "C4528668", "SNOMEDCT": "12291000132102"}
+{"name": "Mixed Phenotype Acute Leukemia", "UMLS": "C2826025", "SNOMEDCT": "450913003"}
+{"name": "Chronic Myelomonocytic Leukemia", "UMLS": "C0023480", "SNOMEDCT": "127225006"}
