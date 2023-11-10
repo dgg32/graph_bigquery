@@ -3,7 +3,7 @@ Python 3.12 encountered an issue with apache-beam (https://stackoverflow.com/que
 
 pip install neo4j
 
-pip install 'apache-beam[gcp]'
+
 
 pip install google-cloud-bigquery
 pip install --upgrade google-cloud-storage
