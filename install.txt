@@ -6,5 +6,5 @@ pip install neo4j
 
 
 pip install google-cloud-bigquery
-pip install --upgrade google-cloud-storage
+
 pip install pyyaml
